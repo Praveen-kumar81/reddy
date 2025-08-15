@@ -106,7 +106,7 @@
         </div>
         <div class="photo-wrap">
           <div class="photo">
-            <img src="/mnt/data/WhatsApp Image 2025-08-11 at 20.57.50.jpeg" alt="Praveen Photo">
+            <img src="praveen.jpg" alt="Praveen Photo">
           </div>
         </div>
       </section>
@@ -189,3 +189,4 @@
   </script>
 </body>
 </html>
+
